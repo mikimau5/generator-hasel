@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/generator-hasel/static/css/main.17791af5.chunk.css",
+    "main.js": "/generator-hasel/static/js/main.d29e09c4.chunk.js",
+    "main.js.map": "/generator-hasel/static/js/main.d29e09c4.chunk.js.map",
+    "runtime-main.js": "/generator-hasel/static/js/runtime-main.a4874982.js",
+    "runtime-main.js.map": "/generator-hasel/static/js/runtime-main.a4874982.js.map",
+    "static/js/2.11206db0.chunk.js": "/generator-hasel/static/js/2.11206db0.chunk.js",
+    "static/js/2.11206db0.chunk.js.map": "/generator-hasel/static/js/2.11206db0.chunk.js.map",
+    "index.html": "/generator-hasel/index.html",
+    "precache-manifest.f501e713b09a0b58a6df0277d1eaea39.js": "/generator-hasel/precache-manifest.f501e713b09a0b58a6df0277d1eaea39.js",
+    "service-worker.js": "/generator-hasel/service-worker.js",
+    "static/css/main.17791af5.chunk.css.map": "/generator-hasel/static/css/main.17791af5.chunk.css.map",
+    "static/js/2.11206db0.chunk.js.LICENSE.txt": "/generator-hasel/static/js/2.11206db0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4874982.js",
+    "static/js/2.11206db0.chunk.js",
+    "static/css/main.17791af5.chunk.css",
+    "static/js/main.d29e09c4.chunk.js"
+  ]
+}
